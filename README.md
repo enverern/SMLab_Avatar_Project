@@ -1,12 +1,12 @@
 # SMLab_Avatar_Project
 In this archive you can find:
 
--solution file with all its attachments [solutions_folder (3rd file)]
--reviewed documentation and challenge files with all their attachments, the modifications are highlighted with a grey background [1st and 2nd files]
--the report of the project
--the middle presentation
--the last presentation
--The Timetable file
+## Solution file with all its attachments [solutions_folder (3rd file)]
+## Reviewed documentation and challenge files with all their attachments, the modifications are highlighted with a grey background [1st and 2nd files]
+## The report of the project
+## The middle presentation
+## The last presentation
+## The Timetable file
 
 It is advised to open the markdown files in GitHub to visualize them in the best way
 
